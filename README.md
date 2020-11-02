@@ -3,7 +3,7 @@
 🤔🤔
 
 
-E : woosb0115@gmail.com
+Email : woosb0115@gmail.com
 <!--
 **woosb/woosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
