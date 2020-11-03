@@ -2,8 +2,8 @@
 
 🤔🤔
 
-since 2020-11-03
-start 1 day 1 commit!!
+since 2020-11-03...
+1 day 1 commit stated!!
 
 Email : woosb0115@gmail.com
 <!--
