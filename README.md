@@ -2,6 +2,8 @@
 
 🤔🤔
 
+since 2020-11-03
+start 1 day 1 commit!!
 
 Email : woosb0115@gmail.com
 <!--
