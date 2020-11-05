@@ -4,7 +4,7 @@
 
 since 2020-11-03...
 <br>
-1 day 1 commit stated!!
+1 day 1 commit started!!
 
 Email : woosb0115@gmail.com
 <!--
