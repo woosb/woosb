@@ -2,10 +2,6 @@
 
 🤔🤔
 
-since 2020-11-03...
-<br>
-1 day 1 commit started!!
-
 Email : woosb0115@gmail.com
 <!--
 **woosb/woosb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
